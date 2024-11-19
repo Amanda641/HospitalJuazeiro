@@ -1,0 +1,49 @@
+Número de semanas necessárias: 2
+Total de pacientes atendidos: 39
+
+Detalhamento dos atendimentos:
+Sala 1, Hora 8: Médico Dr_Ana, Paciente Renato
+Sala 2, Hora 8: Médico Dr_Carlos, Paciente Tatiane
+Sala 3, Hora 8: Médico Dr_Carlos, Paciente Tatiane
+Sala 4, Hora 8: Médico Dr_Joana, Paciente Sérgio
+Sala 1, Hora 9: Médico Dr_Carlos, Paciente Sofia
+Sala 2, Hora 9: Médico Dr_Ana, Paciente Leandro
+Sala 3, Hora 9: Médico Dr_Ana, Paciente Clara
+Sala 4, Hora 9: Médico Dr_Joana, Paciente Lucas
+Sala 1, Hora 10: Médico Dr_Carlos, Paciente Luana
+Sala 2, Hora 10: Médico Dr_Joana, Paciente Ana
+Sala 3, Hora 10: Médico Dr_Bruno, Paciente André
+Sala 4, Hora 10: Médico Dr_Carlos, Paciente Diego
+Sala 1, Hora 11: Médico Dr_Bruno, Paciente Eduarda
+Sala 2, Hora 11: Médico Dr_Joana, Paciente Eduardo
+Sala 3, Hora 11: Médico Dr_Carlos, Paciente Rafael
+Sala 4, Hora 11: Médico Dr_Bruno, Paciente Rodrigo
+Sala 1, Hora 12: Médico Dr_Bruno, Paciente Fernanda
+Sala 2, Hora 12: Médico Dr_Ana, Paciente Mariana
+Sala 3, Hora 12: Médico Dr_Ana, Paciente Cíntia
+Sala 4, Hora 12: Médico Dr_Carlos, Paciente Mário
+Sala 1, Hora 13: Médico Dr_Bruno, Paciente Roberto
+Sala 2, Hora 13: Médico Dr_Carlos, Paciente Joaquim
+Sala 3, Hora 13: Médico Dr_Joana, Paciente Jéssica
+Sala 4, Hora 13: Médico Dr_Bruno, Paciente Camila
+Sala 1, Hora 14: Médico Dr_Ana, Paciente Patrícia
+Sala 2, Hora 14: Médico Dr_Bruno, Paciente Priscila
+Sala 3, Hora 14: Médico Dr_Joana, Paciente Felipe
+Sala 4, Hora 14: Médico Dr_Carlos, Paciente Juliana
+Sala 1, Hora 15: Médico Dr_Bruno, Paciente Gabriel
+Sala 2, Hora 15: Médico Dr_Joana, Paciente Thiago
+Sala 3, Hora 15: Médico Dr_Bruno, Paciente Marcelo
+Sala 4, Hora 15: Médico Dr_Bruno, Paciente Patrícia
+Sala 1, Hora 16: Médico Dr_Joana, Paciente Mariana
+Sala 2, Hora 16: Médico Dr_Bruno, Paciente Fernando
+Sala 3, Hora 16: Médico Dr_Joana, Paciente Gabriela
+Sala 4, Hora 16: Médico Dr_Bruno, Paciente Fernando
+Sala 1, Hora 17: Médico Dr_Ana, Paciente Bianca
+Sala 2, Hora 17: Médico Dr_Ana, Paciente Gustavo
+Sala 3, Hora 17: Médico Dr_Ana, Paciente Lívia
+
+Horas trabalhadas por médico:
+Médico: Dr_Bruno, Horas: 12
+Médico: Dr_Carlos, Horas: 9
+Médico: Dr_Joana, Horas: 9
+Médico: Dr_Ana, Horas: 9

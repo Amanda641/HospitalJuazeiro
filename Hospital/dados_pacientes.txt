@@ -1,0 +1,47 @@
+38 4 4 4
+Pediatria
+Cardiologia
+Ortopedia
+Psiquiatria
+Dr_Ana Pediatria
+Dr_Bruno Cardiologia
+Dr_Carlos Ortopedia
+Dr_Joana Psiquiatria
+Renato 26 111222333 1 68.0 1.72 tosse nenhum 5 Pediatria
+Fernanda 24 444555666 2 78.0 1.68 dor_no_corpo nenhum 4 Cardiologia
+Gustavo 33 999000111 5 85.0 1.85 dor_de_cabeça nenhum 1 Pediatria
+Roberto 25 888999000 8 77.0 1.76 dor_no_corpo nenhum 3 Cardiologia
+Patrícia 31 666777888 4 82.0 1.62 dor_no_peito nenhum 2 Cardiologia
+Diego 21 999888777 12 80.0 1.81 nenhum nenhum 4 Ortopedia
+André 29 777666555 16 88.0 1.79 dor_no_peito nenhum 4 Cardiologia
+Jéssica 28 888555111 27 80.0 1.70 transtorno_do_sono nenhum 3 Psiquiatria
+Mariana 30 555444333 7 73.0 1.74 tosse nenhum 4 Pediatria
+Lucas 22 555888444 25 70.0 1.75 ansiedade nenhum 5 Psiquiatria
+Clara 27 444333222 11 66.0 1.70 dor_de_cabeça nenhum 5 Pediatria
+Sofia 22 222333444 6 67.0 1.67 nenhum nenhum 5 Ortopedia
+Juliana 28 333222111 9 89.0 1.69 febre nenhum 2 Ortopedia
+Marcelo 34 333222111 22 82.0 1.72 dor_no_peito nenhum 2 Cardiologia
+Fernando 34 111000222 10 71.0 1.73 dor_no_peito nenhum 1 Cardiologia
+Bianca 33 111222444 17 83.0 1.64 dor_de_cabeça nenhum 1 Pediatria
+Cíntia 25 555666444 19 70.0 1.68 tosse nenhum 3 Pediatria
+Luana 30 222333888 15 72.0 1.76 febre nenhum 5 Ortopedia
+Tatiane 26 888999444 21 67.0 1.71 febre nenhum 5 Ortopedia
+Rodrigo 31 222333111 20 78.0 1.82 dor_no_corpo nenhum 4 Cardiologia
+Felipe 30 222444333 28 90.0 1.80 estresse nenhum 2 Psiquiatria
+Rafael 27 111333555 24 74.0 1.74 nenhum nenhum 4 Ortopedia
+Gabriel 24 444555111 14 75.0 1.78 dor_no_corpo nenhum 2 Cardiologia
+Eduardo 29 777666222 30 75.0 1.73 dificuldade_de_concentração nenhum 4 Psiquiatria
+Mariana 27 444111555 29 72.0 1.65 fobia nenhum 1 Psiquiatria
+Fernando 34 111000222 10 71.0 1.73 dor_no_peito nenhum 1 Cardiologia
+Patrícia 26 555666777 13 69.0 1.65 tosse nenhum 3 Pediatria
+Lívia 29 555444222 23 79.0 1.67 dor_de_cabeça nenhum 1 Pediatria
+Thiago 24 444555999 32 82.0 1.78 crise_de_pânico nenhum 2 Psiquiatria
+Ana 25 111888999 33 66.0 1.60 estresse nenhum 4 Psiquiatria
+Joaquim 36 222999000 34 92.0 1.80 dor_de_cabeça nenhum 3 Ortopedia
+Priscila 29 555777888 35 80.0 1.68 dor_no_corpo nenhum 2 Cardiologia
+Leandro 31 333444555 36 88.0 1.77 tosse nenhum 5 Pediatria
+Gabriela 23 111222444 37 64.0 1.50 dificuldade_de_concentração nenhum 1 Psiquiatria
+Eduarda 22 444555888 38 70.0 1.72 febre nenhum 4 Cardiologia
+Mário 28 999000777 39 73.0 1.74 dor_no_peito nenhum 3 Ortopedia
+Sérgio 35 888666555 40 76.0 1.80 nenhum nenhum 5 Psiquiatria
+Camila 27 444333000 41 85.0 1.73 transtorno_do_sono nenhum 3 Cardiologia

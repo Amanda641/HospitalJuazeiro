@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1731340954 source:c:\users\silva\onedrive\documentos\semestre 6\estrutura de dados\estudos\lista 1\hospital\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
