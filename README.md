@@ -46,5 +46,5 @@ Este projeto implementa uma escala de atendimentos semanais em um hospital de re
 
 ## **Vídeo Explicativo**  
 O vídeo explicando a implementação está disponível no repositório:  
-- [Apresentação do Projeto](./hospital/Apresentação1.mp4)
+- [Apresentação do Projeto](https://github.com/Amanda641/HospitalJuazeiro/blob/main/Hospital/Apresenta%C3%A7%C3%A3o1.mp4)
 
